@@ -8,4 +8,3 @@ It provided me with a solid understanding of API calls and fetching data from it
 ## Demo
 
 Here is the Live [Demo](https://shobhit-weatherapp.herokuapp.com/) deployed on Heroku
->>>>>>> 87bbdf760ab8ec65eca60c4189394c086d8390cd
